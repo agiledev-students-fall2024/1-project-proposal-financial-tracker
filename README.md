@@ -23,5 +23,5 @@ From an end-user's perspective, the financial tracker system will do the followi
 
 ### Scope
 
-This proposal can be undertaken by a group of programmers in one semester due to the incorporation of front-end development, back-end development, data management/visualization, and security. There are many features and details, varying from simple calculations to complex data information, that need to be implemented for the system to be successful. 
+This proposal can be undertaken by a group of programmers in one semester due to the incorporation of front-end development, back-end development, data management/visualization, and security. There are many features and details, varying from simple calculations to complex data information, that need to be implemented for the system to be successful. It is not too easy because there are many technical requirements in the back-end that have to be programmed, such as implementing security. Yet, it is neither too ambitious as there are only three main components: front-end development, back-end development, and database.
 
